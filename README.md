@@ -4,6 +4,6 @@ A Simple Computer Screen Recorder
 Build using PYTHON
 
 LIBRARY used :-
-computerVision-python
-numpy
+computerVision-python,
+numpy,
 Pillow
